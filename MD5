@@ -1,4 +1,4 @@
-bb1ba46e103999d560186382bc4fa1e1 *DESCRIPTION
+bca9876b33ca526e73f04d0a4d591ebe *DESCRIPTION
 e309e82b164c2bccee5d52f5a4bee4bb *LICENSE
 abdfe24bc4814ca270d87dcfedc74bcf *NAMESPACE
 488a56f4756bd60216cdc77d59630f63 *R/CSA_AlignedTable_xlsxAnalyzer.R
@@ -24,11 +24,11 @@ a5e376f81d67cc78bb6c522f24d45950 *R/IDSL.CSA_workflow.R
 8af5a151ed91e2ea2d0c257efeef6c47 *R/IDSL.CSA_xlsxAnalyzer.R
 c67d0f46aaebe1fd70e4dc3c9996164a *R/aligned_fragmentation_spectra_annotator.R
 35768414b2c578a8483b1ad03b995e6a *R/global.R
-ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
+439bf689fa27cf9affd0335332142165 *build/partial.rdb
 9fe10827181ec35c56de6f4ee8273c91 *data/CSA_PARAM_SPEC.rda
 744f8004520d11c91f6c046d45e45a5e *data/negativeAdducts.rda
 a6d4b924ebcc5a9404e0c4eab08c8a05 *data/positiveAdducts.rda
-555ac54aab32e40041d67d3115e872ec *inst/CITATION
+5bf0dd38b65161874653843120b2923e *inst/CITATION
 81fdb916ed3d926c12367631f0a7169f *inst/extdata/CSA_parameters.xlsx
 20e91b479242ec570e720e9ac8be2872 *man/CSA_AlignedTable_xlsxAnalyzer.Rd
 cd4da5c19b461f14db4cc2a244e88aba *man/CSA_PARAM_SPEC.Rd
